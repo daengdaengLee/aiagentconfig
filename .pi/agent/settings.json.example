@@ -1,0 +1,11 @@
+{
+  "$schema": "https://pi.dev/schemas/settings.schema.json",
+  "packages": [
+    "npm:pi-web-access",
+    "npm:pi-powerline-footer",
+    "npm:pi-subagents",
+    "npm:@dietrichgebert/ponytail",
+    "npm:pi-caveman"
+  ],
+  "defaultTools": ["+codemode"]
+}
