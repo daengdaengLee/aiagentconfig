@@ -29,3 +29,11 @@ pi update --extensions
 `codemode`는 기본 비활성이라 이 설정이 없으면 켜지지 않는다.
 기본값을 사용하는 설정은 넣지 않았다.
 
+## Agent Skills 백업
+
+`.agents/skills/`는 기본 Agent Skills를 백업해 두는 저장소다.
+스킬 하나는 `.agents/skills/<name>/SKILL.md` 형태로 두고, 필요하면 같은 폴더에 참고 자료를 함께 둔다.
+
+| name | description |
+|------|-------------|
+
