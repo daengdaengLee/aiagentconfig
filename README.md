@@ -36,4 +36,5 @@ pi update --extensions
 
 | name | description |
 |------|-------------|
+| `commit` | 현재 git 변경사항 전체로 Conventional Commits 메시지를 만들고, 승인 후 커밋한다. |
 
